@@ -2,9 +2,10 @@
 title: "16S_Phyloseq"
 author: "Anoop Singh"
 date: "08/03/2021"
-output: html_document
+output: "html_document"
 ---
 #Phyloseq
+
 ###Load packages
 ```{r}
 library(tidyverse); packageVersion("tidyverse")
